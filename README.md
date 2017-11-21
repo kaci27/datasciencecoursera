@@ -1,2 +1,2 @@
 # datasciencecoursera
-My data science courser project.
+My data science coursera project.
